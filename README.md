@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USUARIO/NOMBRE-REPO/main?filepath=laplata_scraper.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pachykito08/TRANSPORTE/HEAD?filepath=laplata_scraper.ipynb)
